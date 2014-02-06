@@ -1,0 +1,4 @@
+﻿<html>
+<head><style>.helloworld {font-family:tahoma; font-size:2em;}</style></head>
+<body>@RenderBody()</body>
+</html>
